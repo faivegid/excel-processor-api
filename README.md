@@ -28,7 +28,7 @@ The system is designed as a **benchmark implementation** and can be extended or 
 ---
 
 ## 🌐 Related Projects
-- **Frontend UI (React + Material UI)**: [🔗 Link to Frontend Repo](#) *(to be updated when available)*  
+- **Frontend UI (React + Material UI)**: [🔗 [Link to Frontend Repo](https://github.com/faivegid/excel-processor-ui)](#) *(to be updated when available)*  
 
 ---
 
