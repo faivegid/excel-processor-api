@@ -28,9 +28,13 @@ The system is designed as a **benchmark implementation** and can be extended or 
 ---
 
 ## 🌐 Related Projects
-- **Frontend UI (React + Material UI)**: [🔗 [Link to Frontend Repo](https://github.com/faivegid/excel-processor-ui)](#) *(to be updated when available)*  
+- **Frontend UI (React + Material UI)**: [🔗 [Link to Frontend Repo](https://github.com/faivegid/excel-processor-ui)]
 
 ---
 
+## 📄 Documentation
+- **Software Design Document (SDD)**: [📘 View SDD](https://drive.google.com/file/d/1kDLR6XaYcAygjR1TCaUOFntyMPQdwV5w/view?usp=sharing)]  
+
+---
 ## 🚀 Getting Started
 > Setup instructions will be updated once implementation is complete.
